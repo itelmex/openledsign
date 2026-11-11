@@ -5,3 +5,10 @@
 build/
 *.elf
 .vscode/
+
+# KiCad: respaldos y temporales
+*-backups/
+*.lck
+fp-info-cache
+hardware/kicad/erc.rpt
+__pycache__/

@@ -31,6 +31,7 @@ aplicación: estacionamientos, turnos, precios, andon industrial, publicidad, av
 | `docs/estandares-y-alternativas.md` | Por qué una controladora propia: estándares (HUB12/HUB75, NTCIP, MULTI) y alternativas comerciales |
 | `docs/capacidad.md` | Cuántos módulos maneja un ESP32 y qué lo limita |
 | `docs/interfaz-hub12.md` | Conexión ESP32 → P10 en detalle y prototipo de banco |
+| `hardware/kicad/` | **Esquemático Rev A** (KiCad + PDF) y el generador que lo produce |
 
 Cada alternativa de diseño va en su propia subcarpeta numerada; las anteriores no se borran.
 
