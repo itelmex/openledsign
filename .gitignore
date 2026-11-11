@@ -1,0 +1,7 @@
+# Lista de dominios: se queda local (publicarla invita a que alguien los registre antes)
+03-nombres-dominio/
+# Compilación
+.pio/
+build/
+*.elf
+.vscode/
